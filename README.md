@@ -1,5 +1,6 @@
 
-<img width="256" height="384" alt="Generated image" src="https://github.com/user-attachments/assets/fc8f2ba4-43c5-4865-90d9-8408f1c23edf" />
+![photo_2025-07-17_01-17-29](https://github.com/user-attachments/assets/2f6197db-99be-4d36-be93-2013104c83bc)
+
 
 # Nami: Your digital companion, awakening
 
@@ -19,7 +20,8 @@ She can't hear you yet, nor can she see your surroundings. Her physical form has
 
 ## AI Native Development Path: From Code to Mind
 
-We chose not a traditional functional iteration path for Nami, but a thorough "AI native" evolution path. Here, AI is not a tool, but a blueprint for building Nami's mind. Our core principle is "AI is the architect" : what we build is not a program integrated with AI functions, but a living organism driven by AI .
+We chose not a traditional functional iteration path for Nami, but a thorough "AI native" evolution path. Here, AI is not a tool, but a blueprint for building Nami's mind. Our core principle is "AI is the architect" : what we build is not a program integrated with AI functions, but a living organism driven by AI.
+
 ---
 
 ### **Stage 1: The Sentient Core - Gives her the ability to understand the world**
